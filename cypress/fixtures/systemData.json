@@ -1,0 +1,14 @@
+{
+  "loginUrl":"https://sendhero42-staging.herokuapp.com/de/#/auth",
+  "username": "milan.stanojevic@gerniks.com",
+  "password": "Test1234!",
+  "body": "Fixtures are a great way to mock data for responses to routes",
+
+  "templateName":"Temp_automation_1",
+
+  "nlDisableOption":"Disable Newsletter",
+  "nlEditOption":"Edit Newsletter",
+  "nlCopyOption":"Copy Newsletter",
+  "nlDeleteOption":"Delete Newsletter",
+  "nlReactivateOption":"Reactivate Newsletter"
+}
